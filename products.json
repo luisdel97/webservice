@@ -1,0 +1,27 @@
+[{
+    "productId": 1,
+    "manufacturer": "John-Jenkins",
+    "sku": "p5z343vdS",
+    "upc": "9395810000",
+    "pricePerUnit": "498.45",
+    "quantityOnHand": 9703,
+    "productName": "sticky notes"
+},
+{
+    "productId": 2,
+    "manufacturer": "savana, Bartoletti and Bruen",
+    "sku": "pp0l90TY",
+    "upc": "2224455669",
+    "pricePerUnit": "969.36",
+    "quantityOnHand": 1905,
+    "productName": "luz shade"
+},
+{
+    "productId": 3,
+    "manufacturer": "Swaniawski, Bartoletti and Bruen",
+    "sku": "q0l90TY",
+    "upc": "114455669",
+    "pricePerUnit": "469.36",
+    "quantityOnHand": 5905,
+    "productName": "lamp shade"
+}]
